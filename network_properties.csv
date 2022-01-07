@@ -1,653 +1,598 @@
-﻿Taxa,Degree,Centrality,Temp
-16S_cold,7,0.266239707,<20
-16S_cold,7,0.282798834,<20
-16S_cold,7,0.292462312,<20
-16S_cold,6,0.28115942,<20
-16S_cold,4,0.23562753,<20
-16S_cold,6,0.275307474,<20
-16S_cold,4,0.260053619,<20
-16S_cold,4,0.237939493,<20
-16S_cold,5,0.264305177,<20
-16S_cold,2,0.254148472,<20
-16S_cold,7,0.279538905,<20
-16S_cold,2,0.241293532,<20
-16S_cold,4,0.244537815,<20
-16S_cold,4,0.24556962,<20
-16S_cold,3,0.230952381,<20
-16S_cold,5,0.277671756,<20
-16S_cold,5,0.260986547,<20
-16S_cold,6,0.294534413,<20
-16S_cold,5,0.267463235,<20
-16S_cold,3,0.23373494,<20
-16S_cold,3,0.255039439,<20
-16S_cold,3,0.254370629,<20
-16S_cold,2,0.234677419,<20
-16S_cold,5,0.264786169,<20
-16S_cold,2,0.241293532,<20
-16S_cold,4,0.268698061,<20
-16S_cold,8,0.307936508,<20
-16S_cold,3,0.24893071,<20
-16S_cold,6,0.29305136,<20
-16S_cold,6,0.274011299,<20
-16S_cold,8,0.290129611,<20
-16S_cold,8,0.305672269,<20
-16S_cold,2,0.235818476,<20
-16S_cold,5,0.269444444,<20
-16S_cold,4,0.266972477,<20
-16S_cold,4,0.279538905,<20
-16S_cold,4,0.263348416,<20
-16S_cold,4,0.271455224,<20
-16S_cold,3,0.22985782,<20
-16S_cold,4,0.258666667,<20
-16S_cold,6,0.273753528,<20
-16S_cold,4,0.245362563,<20
-16S_cold,3,0.250430293,<20
-16S_cold,5,0.288118812,<20
-16S_cold,3,0.271455224,<20
-16S_cold,4,0.250214961,<20
-16S_cold,8,0.285294118,<20
-16S_cold,5,0.257978723,<20
-16S_cold,2,0.23562753,<20
-16S_cold,3,0.241895262,<20
-16S_cold,2,0.229676401,<20
-16S_cold,6,0.272983114,<20
-16S_cold,4,0.273753528,<20
-16S_cold,6,0.277142857,<20
-16S_cold,5,0.280076997,<20
-16S_cold,3,0.25729443,<20
-16S_cold,4,0.256613757,<20
-16S_cold,3,0.23392283,<20
-16S_cold,3,0.235436893,<20
-16S_cold,3,0.253705318,<20
-16S_cold,5,0.256613757,<20
-16S_cold,3,0.263586957,<20
-16S_cold,5,0.266483516,<20
-16S_cold,4,0.259127337,<20
-16S_cold,3,0.23392283,<20
-16S_cold,5,0.264545455,<20
-16S_cold,7,0.286982249,<20
-16S_cold,6,0.28307393,<20
-16S_cold,5,0.283625731,<20
-16S_cold,4,0.253043478,<20
-16S_cold,2,0.213813373,<20
-16S_cold,3,0.226812159,<20
-16S_cold,6,0.272983114,<20
-16S_cold,4,0.267955801,<20
-16S_cold,3,0.254148472,<20
-16S_cold,3,0.227699531,<20
-16S_cold,7,0.285854617,<20
-16S_cold,4,0.247238743,<20
-16S_cold,7,0.294832827,<20
-16S_cold,8,0.304393305,<20
-16S_cold,5,0.244743482,<20
-16S_cold,5,0.261455526,<20
-16S_cold,4,0.258666667,<20
-16S_cold,7,0.291291291,<20
-16S_cold,3,0.253926702,<20
-16S_cold,7,0.277936963,<20
-16S_cold,3,0.245362563,<20
-16S_cold,4,0.261690647,<20
-16S_cold,3,0.252385082,<20
-16S_cold,4,0.268202765,<20
-16S_cold,6,0.268698061,<20
-16S_cold,4,0.277936963,<20
-16S_cold,3,0.247238743,<20
-16S_cold,2,0.227166276,<20
-16S_cold,3,0.24556962,<20
-16S_cold,1,0.223159509,<20
-16S_cold,4,0.244743482,<20
-16S_cold,1,0.196754564,<20
-16S_cold,2,0.211636364,<20
-16S_cold,3,0.251948052,<20
-16S_cold,3,0.238916256,<20
-16S_cold,3,0.241493776,<20
-16S_cold,2,0.219291635,<20
-16S_cold,4,0.264065336,<20
-16S_cold,3,0.239309211,<20
-16S_cold,5,0.281976744,<20
-16S_cold,1,0.205218618,<20
-16S_cold,3,0.261220826,<20
-16S_cold,2,0.2425,<20
-16S_cold,4,0.258896797,<20
-16S_cold,9,0.296334012,<20
-16S_cold,4,0.249357326,<20
-16S_cold,2,0.245984784,<20
-16S_cold,3,0.248505551,<20
-16S_cold,4,0.24744898,<20
-16S_cold,1,0.198499318,<20
-16S_cold,3,0.244949495,<20
-16S_cold,2,0.233360064,<20
-16S_cold,4,0.25,<20
-16S_cold,5,0.263586957,<20
-16S_cold,1,0.20950324,<20
-16S_cold,3,0.23755102,<20
-16S_cold,2,0.237357259,<20
-16S_cold,3,0.239309211,<20
-16S_cold,3,0.238720263,<20
-16S_cold,5,0.274269557,<20
-16S_cold,2,0.236393176,<20
-16S_cold,2,0.252385082,<20
-16S_cold,3,0.267217631,<20
-16S_cold,1,0.227699531,<20
-16S_cold,2,0.241895262,<20
-16S_cold,3,0.267463235,<20
-16S_cold,3,0.271455224,<20
-18S_cold,7,0.302809573,<20
-18S_cold,11,0.304712042,<20
-18S_cold,8,0.297850563,<20
-18S_cold,9,0.313577586,<20
-18S_cold,5,0.260519248,<20
-18S_cold,3,0.260053619,<20
-18S_cold,7,0.293642785,<20
-18S_cold,10,0.30186722,<20
-18S_cold,8,0.292168675,<20
-18S_cold,7,0.270697674,<20
-18S_cold,7,0.305672269,<20
-18S_cold,6,0.282798834,<20
-18S_cold,9,0.298767967,<20
-18S_cold,7,0.300619835,<20
-18S_cold,9,0.297546012,<20
-18S_cold,9,0.299075026,<20
-18S_cold,7,0.299382716,<20
-18S_cold,8,0.304075235,<20
-18S_cold,8,0.3,<20
-18S_cold,4,0.268946396,<20
-18S_cold,7,0.304393305,<20
-18S_cold,5,0.283902439,<20
-18S_cold,11,0.315276273,<20
-18S_cold,12,0.317339149,<20
-18S_cold,8,0.292168675,<20
-18S_cold,4,0.279002876,<20
-18S_cold,9,0.284457478,<20
-18S_cold,9,0.289264414,<20
-18S_cold,6,0.285574092,<20
-18S_cold,9,0.312567132,<20
-18S_cold,7,0.281703775,<20
-18S_cold,8,0.303125,<20
-18S_cold,9,0.315960912,<20
-18S_cold,6,0.28115942,<20
-18S_cold,10,0.299075026,<20
-18S_cold,8,0.28897716,<20
-18S_cold,7,0.299075026,<20
-18S_cold,6,0.283349562,<20
-18S_cold,13,0.313577586,<20
-18S_cold,5,0.271202237,<20
-18S_cold,7,0.279538905,<20
-18S_cold,12,0.309904153,<20
-18S_cold,8,0.300309598,<20
-18S_cold,8,0.303125,<20
-18S_cold,7,0.284735812,<20
-18S_cold,11,0.303441084,<20
-18S_cold,6,0.294832827,<20
-18S_cold,7,0.286982249,<20
-18S_cold,8,0.315618221,<20
-18S_cold,4,0.265996344,<20
-18S_cold,8,0.294534413,<20
-18S_cold,10,0.291291291,<20
-18S_cold,11,0.308917197,<20
-18S_cold,9,0.291875627,<20
-18S_cold,6,0.291583166,<20
-18S_cold,3,0.263586957,<20
-18S_cold,4,0.255936675,<20
-18S_cold,7,0.296636086,<20
-18S_cold,10,0.302809573,<20
-18S_cold,9,0.307936508,<20
-18S_cold,8,0.29305136,<20
-18S_cold,5,0.280617165,<20
-18S_cold,7,0.296636086,<20
-18S_cold,6,0.292168675,<20
-18S_cold,10,0.312567132,<20
-18S_cold,9,0.303125,<20
-18S_cold,3,0.260519248,<20
-18S_cold,6,0.288404361,<20
-18S_cold,10,0.300619835,<20
-18S_cold,4,0.256840247,<20
-18S_cold,6,0.287833828,<20
-18S_cold,13,0.334482759,<20
-18S_cold,10,0.299382716,<20
-18S_cold,7,0.3,<20
-18S_cold,6,0.276353276,<20
-18S_cold,6,0.281431335,<20
-18S_cold,7,0.281703775,<20
-18S_cold,5,0.282798834,<20
-18S_cold,6,0.290419162,<20
-18S_cold,10,0.317339149,<20
-18S_cold,9,0.308262712,<20
-18S_cold,10,0.307610994,<20
-18S_cold,7,0.29969104,<20
-18S_cold,5,0.280888031,<20
-18S_cold,10,0.311229947,<20
-18S_cold,6,0.277671756,<20
-18S_cold,11,0.31223176,<20
-18S_cold,7,0.291583166,<20
-18S_cold,12,0.316993464,<20
-18S_cold,10,0.31978022,<20
-18S_cold,6,0.273239437,<20
-18S_cold,8,0.30186722,<20
-18S_cold,8,0.300309598,<20
-18S_cold,5,0.292462312,<20
-18S_cold,6,0.285014691,<20
-18S_cold,4,0.265753425,<20
-18S_cold,6,0.284457478,<20
-18S_cold,6,0.282798834,<20
-18S_cold,5,0.273753528,<20
-18S_cold,7,0.291875627,<20
-18S_cold,5,0.282250242,<20
-18S_cold,8,0.298461538,<20
-18S_cold,8,0.295731707,<20
-18S_cold,6,0.302494802,<20
-18S_cold,5,0.27661597,<20
-18S_cold,10,0.308262712,<20
-18S_cold,8,0.308262712,<20
-18S_cold,7,0.30186722,<20
-18S_cold,10,0.302180685,<20
-18S_cold,7,0.292756539,<20
-18S_cold,6,0.284457478,<20
-18S_cold,8,0.297546012,<20
-18S_cold,11,0.31425486,<20
-18S_cold,1,0.226283048,<20
-18S_cold,6,0.285574092,<20
-18S_cold,3,0.258207631,<20
-18S_cold,5,0.275047259,<20
-18S_cold,3,0.265027322,<20
-18S_cold,9,0.310897436,<20
-18S_cold,7,0.291875627,<20
-18S_cold,7,0.285574092,<20
-18S_cold,11,0.307286167,<20
-18S_cold,8,0.296938776,<20
-18S_cold,10,0.308262712,<20
-18S_cold,5,0.285294118,<20
-18S_cold,9,0.306962025,<20
-18S_cold,7,0.291875627,<20
-18S_cold,9,0.304393305,<20
-18S_cold,6,0.286699507,<20
-18S_cold,7,0.296636086,<20
-18S_cold,4,0.250645995,<20
-18S_cold,9,0.296032553,<20
-18S_cold,5,0.280076997,<20
-18S_cold,5,0.270697674,<20
-18S_cold,7,0.285854617,<20
-18S_cold,9,0.296636086,<20
-18S_cold,7,0.296938776,<20
-18S_cold,8,0.28897716,<20
-18S_cold,7,0.301242236,<20
-18S_cold,8,0.291291291,<20
-18S_cold,6,0.282798834,<20
-18S_cold,6,0.28897716,<20
-18S_cold,8,0.294832827,<20
-18S_cold,6,0.285294118,<20
-18S_cold,8,0.284735812,<20
-18S_cold,8,0.292462312,<20
-18S_cold,10,0.313240043,<20
-18S_cold,5,0.288690476,<20
-18S_cold,8,0.303757829,<20
-18S_cold,6,0.274269557,<20
-18S_cold,7,0.290419162,<20
-18S_cold,8,0.297850563,<20
-18S_cold,8,0.280076997,<20
-18S_cold,9,0.295431472,<20
-18S_cold,3,0.251512532,<20
-18S_cold,3,0.275307474,<20
-18S_cold,10,0.296938776,<20
-18S_cold,4,0.280346821,<20
-18S_cold,9,0.307610994,<20
-16S_warm,7,0.258394161,20-31
-16S_warm,5,0.224761905,20-31
-16S_warm,4,0.228387097,20-31
-16S_warm,4,0.267169811,20-31
-16S_warm,3,0.246518106,20-31
-16S_warm,7,0.273148148,20-31
-16S_warm,5,0.255411255,20-31
-16S_warm,3,0.209219858,20-31
-16S_warm,3,0.204506066,20-31
-16S_warm,2,0.234903782,20-31
-16S_warm,6,0.237903226,20-31
-16S_warm,7,0.255595668,20-31
-16S_warm,3,0.223626027,20-31
-16S_warm,5,0.217980296,20-31
-16S_warm,6,0.26497006,20-31
-16S_warm,5,0.242964997,20-31
-16S_warm,3,0.212740385,20-31
-16S_warm,3,0.2,20-31
-16S_warm,1,0.183609959,20-31
-16S_warm,2,0.218923933,20-31
-16S_warm,3,0.24048913,20-31
-16S_warm,8,0.270849273,20-31
-16S_warm,5,0.264573991,20-31
-16S_warm,2,0.211469534,20-31
-16S_warm,4,0.24263194,20-31
-16S_warm,5,0.2643764,20-31
-16S_warm,4,0.236947791,20-31
-16S_warm,3,0.221804511,20-31
-16S_warm,2,0.180061038,20-31
-16S_warm,4,0.221804511,20-31
-16S_warm,4,0.230919765,20-31
-16S_warm,3,0.241638225,20-31
-16S_warm,4,0.227214377,20-31
-16S_warm,5,0.237424547,20-31
-16S_warm,1,0.148241206,20-31
-16S_warm,2,0.173955774,20-31
-16S_warm,4,0.210213777,20-31
-16S_warm,3,0.208603418,20-31
-16S_warm,2,0.211091234,20-31
-16S_warm,2,0.203331419,20-31
-16S_warm,2,0.190118153,20-31
-16S_warm,5,0.271056662,20-31
-16S_warm,5,0.252316465,20-31
-16S_warm,5,0.266566265,20-31
-16S_warm,3,0.24,20-31
-16S_warm,1,0.181631606,20-31
-16S_warm,2,0.201939532,20-31
-16S_warm,4,0.24789916,20-31
-16S_warm,4,0.250708215,20-31
-16S_warm,3,0.232131148,20-31
-16S_warm,2,0.228682171,20-31
-16S_warm,4,0.237424547,20-31
-16S_warm,4,0.209219858,20-31
-16S_warm,4,0.244982699,20-31
-16S_warm,4,0.221665623,20-31
-16S_warm,2,0.192286801,20-31
-16S_warm,2,0.206654991,20-31
-16S_warm,3,0.249120338,20-31
-16S_warm,6,0.271056662,20-31
-16S_warm,8,0.2832,20-31
-16S_warm,5,0.265765766,20-31
-16S_warm,1,0.157894737,20-31
-16S_warm,2,0.187400741,20-31
-16S_warm,3,0.189608998,20-31
-16S_warm,2,0.223626027,20-31
-16S_warm,3,0.243131868,20-31
-16S_warm,2,0.224192527,20-31
-16S_warm,3,0.239189189,20-31
-16S_warm,3,0.235842771,20-31
-16S_warm,5,0.234281932,20-31
-16S_warm,2,0.217311234,20-31
-16S_warm,2,0.208480565,20-31
-16S_warm,4,0.221111805,20-31
-16S_warm,2,0.192705498,20-31
-16S_warm,2,0.187698834,20-31
-16S_warm,2,0.230618893,20-31
-16S_warm,1,0.159459459,20-31
-16S_warm,2,0.230318803,20-31
-16S_warm,5,0.269406393,20-31
-16S_warm,4,0.240652617,20-31
-16S_warm,1,0.194078947,20-31
-16S_warm,6,0.262611276,20-31
-16S_warm,6,0.270435447,20-31
-16S_warm,2,0.227068634,20-31
-16S_warm,2,0.17550818,20-31
-16S_warm,3,0.199661591,20-31
-16S_warm,2,0.197104677,20-31
-16S_warm,5,0.208726415,20-31
-16S_warm,3,0.22504768,20-31
-16S_warm,4,0.247206704,20-31
-16S_warm,2,0.231070496,20-31
-16S_warm,5,0.232588699,20-31
-16S_warm,1,0.1888,20-31
-16S_warm,3,0.250353607,20-31
-16S_warm,3,0.232131148,20-31
-16S_warm,3,0.231221424,20-31
-16S_warm,1,1,20-31
-16S_warm,1,1,20-31
-16S_warm,5,0.242964997,20-31
-16S_warm,2,0.19579646,20-31
-16S_warm,2,0.212103056,20-31
-16S_warm,3,0.249295775,20-31
-16S_warm,1,0.173784978,20-31
-16S_warm,2,0.208972845,20-31
-16S_warm,6,0.259150805,20-31
-16S_warm,2,0.206413994,20-31
-16S_warm,4,0.239512855,20-31
-16S_warm,3,0.236157438,20-31
-16S_warm,3,0.217177914,20-31
-16S_warm,6,0.25267666,20-31
-16S_warm,2,0.221526909,20-31
-16S_warm,3,0.213253012,20-31
-16S_warm,1,0.17585693,20-31
-16S_warm,3,0.186807388,20-31
-16S_warm,5,0.255227109,20-31
-16S_warm,1,0.214675561,20-31
-16S_warm,4,0.246518106,20-31
-16S_warm,4,0.240162822,20-31
-16S_warm,4,0.252136752,20-31
-16S_warm,4,0.251957295,20-31
-16S_warm,1,0.201365188,20-31
-16S_warm,4,0.235215947,20-31
-16S_warm,3,0.215328467,20-31
-16S_warm,1,0.183800623,20-31
-16S_warm,2,0.211343284,20-31
-16S_warm,5,0.238383838,20-31
-16S_warm,3,0.210089021,20-31
-16S_warm,5,0.25,20-31
-16S_warm,2,0.190016103,20-31
-16S_warm,2,0.219330855,20-31
-16S_warm,7,0.277429467,20-31
-16S_warm,1,0.217311234,20-31
-16S_warm,2,0.218518519,20-31
-16S_warm,2,0.213510253,20-31
-16S_warm,2,0.180796731,20-31
-16S_warm,1,0.208112875,20-31
-16S_warm,3,0.230169051,20-31
-16S_warm,3,0.22519084,20-31
-16S_warm,4,0.220423412,20-31
-16S_warm,1,0.16381305,20-31
-16S_warm,4,0.237903226,20-31
-16S_warm,4,0.229571984,20-31
-16S_warm,4,0.197986577,20-31
-16S_warm,2,0.22605364,20-31
-16S_warm,1,0.158106297,20-31
-16S_warm,2,0.209219858,20-31
-16S_warm,5,0.242798354,20-31
-16S_warm,3,0.24807288,20-31
-16S_warm,6,0.244306418,20-31
-16S_warm,6,0.227945911,20-31
-16S_warm,2,0.223484848,20-31
-16S_warm,2,0.22125,20-31
-16S_warm,1,0.181259601,20-31
-16S_warm,3,0.240162822,20-31
-16S_warm,3,0.238544474,20-31
-16S_warm,1,0.192705498,20-31
-16S_warm,4,0.240652617,20-31
-16S_warm,2,0.177354709,20-31
-16S_warm,4,0.212740385,20-31
-16S_warm,3,0.241803279,20-31
-16S_warm,5,0.258205689,20-31
-16S_warm,1,0.666666667,20-31
-16S_warm,2,1,20-31
-16S_warm,1,0.666666667,20-31
-16S_warm,2,0.225621415,20-31
-16S_warm,2,0.249647391,20-31
-16S_warm,2,0.233509235,20-31
-16S_warm,1,0.232894737,20-31
-16S_warm,2,0.240162822,20-31
-16S_warm,2,0.234592445,20-31
-18S_warm,11,0.3,20-31
-18S_warm,9,0.284565916,20-31
-18S_warm,11,0.301276596,20-31
-18S_warm,5,0.249471459,20-31
-18S_warm,3,0.226777707,20-31
-18S_warm,6,0.273570325,20-31
-18S_warm,7,0.2832,20-31
-18S_warm,11,0.305963699,20-31
-18S_warm,3,0.245152355,20-31
-18S_warm,3,0.234748011,20-31
-18S_warm,10,0.278959811,20-31
-18S_warm,5,0.269611577,20-31
-18S_warm,11,0.292320396,20-31
-18S_warm,8,0.282071713,20-31
-18S_warm,6,0.279400158,20-31
-18S_warm,8,0.286871961,20-31
-18S_warm,10,0.295,20-31
-18S_warm,12,0.295739348,20-31
-18S_warm,4,0.254127782,20-31
-18S_warm,10,0.299745978,20-31
-18S_warm,7,0.294754371,20-31
-18S_warm,12,0.293532338,20-31
-18S_warm,7,0.275700935,20-31
-18S_warm,9,0.281847134,20-31
-18S_warm,13,0.304123711,20-31
-18S_warm,14,0.30153322,20-31
-18S_warm,12,0.299745978,20-31
-18S_warm,10,0.291118421,20-31
-18S_warm,14,0.318059299,20-31
-18S_warm,11,0.305699482,20-31
-18S_warm,8,0.285253828,20-31
-18S_warm,12,0.302305722,20-31
-18S_warm,8,0.286639676,20-31
-18S_warm,8,0.288743883,20-31
-18S_warm,5,0.287804878,20-31
-18S_warm,3,0.217444717,20-31
-18S_warm,13,0.296482412,20-31
-18S_warm,8,0.288979592,20-31
-18S_warm,10,0.288979592,20-31
-18S_warm,13,0.308362369,20-31
-18S_warm,6,0.275700935,20-31
-18S_warm,6,0.267371601,20-31
-18S_warm,10,0.285945073,20-31
-18S_warm,7,0.28757108,20-31
-18S_warm,6,0.278083268,20-31
-18S_warm,5,0.254310345,20-31
-18S_warm,9,0.288273616,20-31
-18S_warm,10,0.298986486,20-31
-18S_warm,10,0.282747604,20-31
-18S_warm,5,0.276778733,20-31
-18S_warm,8,0.289689034,20-31
-18S_warm,9,0.283881315,20-31
-18S_warm,14,0.307558645,20-31
-18S_warm,11,0.298482293,20-31
-18S_warm,10,0.289689034,20-31
-18S_warm,8,0.295492487,20-31
-18S_warm,10,0.290401969,20-31
-18S_warm,14,0.311345646,20-31
-18S_warm,9,0.297229219,20-31
-18S_warm,12,0.287104623,20-31
-18S_warm,8,0.282296651,20-31
-18S_warm,10,0.295986622,20-31
-18S_warm,5,0.259150805,20-31
-18S_warm,5,0.266365688,20-31
-18S_warm,8,0.278959811,20-31
-18S_warm,5,0.267573696,20-31
-18S_warm,7,0.281847134,20-31
-18S_warm,6,0.278083268,20-31
-18S_warm,8,0.288508557,20-31
-18S_warm,8,0.277647059,20-31
-18S_warm,13,0.299492386,20-31
-18S_warm,6,0.286639676,20-31
-18S_warm,11,0.3,20-31
-18S_warm,12,0.304385211,20-31
-18S_warm,8,0.294509151,20-31
-18S_warm,5,0.268181818,20-31
-18S_warm,5,0.263001486,20-31
-18S_warm,8,0.291358025,20-31
-18S_warm,6,0.273781903,20-31
-18S_warm,7,0.265168539,20-31
-18S_warm,5,0.271264368,20-31
-18S_warm,11,0.298986486,20-31
-18S_warm,11,0.31522707,20-31
-18S_warm,7,0.269201521,20-31
-18S_warm,11,0.283426741,20-31
-18S_warm,9,0.284337349,20-31
-18S_warm,8,0.298230834,20-31
-18S_warm,10,0.292079208,20-31
-18S_warm,6,0.282747604,20-31
-18S_warm,9,0.295246038,20-31
-18S_warm,4,0.260677467,20-31
-18S_warm,4,0.268181818,20-31
-18S_warm,9,0.2832,20-31
-18S_warm,7,0.285945073,20-31
-18S_warm,9,0.277647059,20-31
-18S_warm,6,0.263392857,20-31
-18S_warm,6,0.266968326,20-31
-18S_warm,5,0.260677467,20-31
-18S_warm,5,0.275058275,20-31
-18S_warm,4,0.265367316,20-31
-18S_warm,9,0.2832,20-31
-18S_warm,6,0.275058275,20-31
-18S_warm,6,0.268588771,20-31
-18S_warm,7,0.277429467,20-31
-18S_warm,8,0.2832,20-31
-18S_warm,9,0.288743883,20-31
-18S_warm,12,0.303341902,20-31
-18S_warm,10,0.293532338,20-31
-18S_warm,7,0.271889401,20-31
-18S_warm,6,0.276131045,20-31
-18S_warm,5,0.271680737,20-31
-18S_warm,8,0.290163934,20-31
-18S_warm,9,0.291358025,20-31
-18S_warm,8,0.286176233,20-31
-18S_warm,11,0.290401969,20-31
-18S_warm,9,0.294019934,20-31
-18S_warm,6,0.286176233,20-31
-18S_warm,4,0.259721203,20-31
-18S_warm,6,0.267169811,20-31
-18S_warm,6,0.275272162,20-31
-18S_warm,8,0.291598023,20-31
-18S_warm,3,0.251242016,20-31
-18S_warm,4,0.263197026,20-31
-18S_warm,8,0.2832,20-31
-18S_warm,8,0.288508557,20-31
-18S_warm,5,0.271264368,20-31
-18S_warm,5,0.260485651,20-31
-18S_warm,8,0.291838417,20-31
-18S_warm,9,0.292561983,20-31
-18S_warm,5,0.270229008,20-31
-18S_warm,6,0.25782957,20-31
-18S_warm,7,0.277429467,20-31
-18S_warm,9,0.290640394,20-31
-18S_warm,5,0.265765766,20-31
-18S_warm,11,0.289689034,20-31
-18S_warm,10,0.293532338,20-31
-18S_warm,5,0.257641921,20-31
-18S_warm,11,0.294509151,20-31
-18S_warm,5,0.270229008,20-31
-18S_warm,6,0.282973621,20-31
-18S_warm,6,0.271680737,20-31
-18S_warm,10,0.301020408,20-31
-18S_warm,7,0.273148148,20-31
-18S_warm,8,0.296979866,20-31
-18S_warm,7,0.281175536,20-31
-18S_warm,9,0.291598023,20-31
-18S_warm,6,0.278740157,20-31
-18S_warm,6,0.265765766,20-31
-18S_warm,9,0.298230834,20-31
-18S_warm,7,0.280285036,20-31
-18S_warm,10,0.292320396,20-31
-18S_warm,7,0.276346604,20-31
-18S_warm,9,0.307291667,20-31
-18S_warm,2,0.236,20-31
-18S_warm,4,0.259911894,20-31
-18S_warm,6,0.281847134,20-31
-18S_warm,6,0.266165414,20-31
-18S_warm,10,0.300764656,20-31
-18S_warm,7,0.284337349,20-31
-18S_warm,4,0.255595668,20-31
-18S_warm,6,0.28072958,20-31
-18S_warm,8,0.284109149,20-31
-18S_warm,3,0.253400143,20-31
-18S_warm,4,0.25,20-31
-18S_warm,8,0.301790281,20-31
-18S_warm,8,0.282521947,20-31
-18S_warm,14,0.297478992,20-31
-18S_warm,5,0.263001486,20-31
-18S_warm,5,0.257641921,20-31
-18S_warm,6,0.270022883,20-31
-18S_warm,6,0.28072958,20-31
-18S_warm,5,0.277429467,20-31
-18S_warm,6,0.267573696,20-31
-18S_warm,5,0.269406393,20-31
-18S_warm,6,0.26899696,20-31
-18S_warm,3,0.249647391,20-31
-18S_warm,9,0.297229219,20-31
-18S_warm,4,0.262028127,20-31
-18S_warm,5,0.255227109,20-31
-18S_warm,6,0.261061947,20-31
-18S_warm,4,0.265566392,20-31
-18S_warm,9,0.284109149,20-31
-18S_warm,6,0.262806236,20-31
-18S_warm,8,0.283881315,20-31
-18S_warm,9,0.269201521,20-31
-18S_warm,6,0.26899696,20-31
-18S_warm,2,0.23046875,20-31
-18S_warm,7,0.265765766,20-31
-18S_warm,7,0.268588771,20-31
-18S_warm,5,0.271680737,20-31
+﻿Kingdom,Class,Order,ClosenessCentrality,Degree,Cluster
+Bacteria,Alphaproteobacteria,SAR11 clade,0.285033365,5,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.305413687,7,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.323943662,9,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.312434692,6,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.30141129,7,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.294001967,7,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.272313297,6,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.318763326,10,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.300804829,7,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.297512438,5,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.269612263,5,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.294871795,5,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.290573372,7,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.285577841,5,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.30984456,7,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.313417191,5,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.315068493,9,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.310810811,7,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.301107754,6,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.323943662,7,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.269855596,5,Cluster_1
+Archaea,Thermoplasmata,Marine Group II,0.305725971,8,Cluster_1
+Archaea,Thermoplasmata,Marine Group II,0.282341832,4,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.337471783,11,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.312761506,8,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.293424926,5,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.305725971,6,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.295454545,5,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.331853496,9,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.283950617,4,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.302631579,9,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.328932893,10,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.293137255,6,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.286948177,5,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.306352459,6,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.30479103,8,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.326775956,8,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.309203723,5,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.27839851,6,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.24833887,3,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.304170905,7,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.272065514,4,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.291707317,6,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.337091319,9,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.337853107,10,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.330752212,9,Cluster_1
+Bacteria,Bacteroidia,Sphingobacteriales,0.323943662,8,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.293137255,5,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.315068493,7,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.320815451,8,Cluster_1
+Bacteria,Deltaproteobacteria,SAR324 clade(Marine group B),0.290573372,5,Cluster_1
+Bacteria,Bacteroidia,Sphingobacteriales,0.296626984,6,Cluster_1
+Bacteria,Deltaproteobacteria,SAR324 clade(Marine group B),0.288331726,5,Cluster_1
+Bacteria,Deltaproteobacteria,SAR324 clade(Marine group B),0.297808765,6,Cluster_1
+Bacteria,Actinobacteria,Micrococcales,0.307929969,7,Cluster_1
+Bacteria,Actinobacteria,Micrococcales,0.269126913,2,Cluster_1
+Bacteria,Actinobacteria,Micrococcales,0.306666667,7,Cluster_1
+Bacteria,Actinobacteria,Micrococcales,0.295162883,7,Cluster_1
+Bacteria,Actinobacteria,Micrococcales,0.273809524,5,Cluster_1
+Bacteria,Actinobacteria,Micrococcales,0.291992188,5,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.314736842,7,Cluster_1
+Bacteria,Bacteroidia,Flavobacteriales,0.296039604,5,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.30141129,6,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.260452962,3,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.334078212,9,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.296039604,6,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.283681214,5,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.315733897,8,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.296626984,7,Cluster_1
+Bacteria,Verrucomicrobiae,Opitutales,0.336332958,8,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.308884298,6,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.301715439,6,Cluster_1
+Bacteria,Deltaproteobacteria,SAR324 clade(Marine group B),0.288888889,5,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.279700655,4,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.289168279,3,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.316737288,8,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.317073171,7,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.301715439,6,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.328932893,8,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.302631579,5,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodospirillales,0.28585086,5,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodospirillales,0.290856031,4,Cluster_1
+Bacteria,Acidimicrobiia,Actinomarinales,0.311458333,7,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.338618347,9,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.332222222,10,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.2972167,6,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.316067653,6,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.281015038,3,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.327491785,9,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.296333003,6,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.284220532,4,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.294871795,4,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.30698152,8,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.320471597,7,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.30984456,7,Cluster_1
+Archaea,Thermoplasmata,Marine Group II,0.264367816,2,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.290291262,6,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.2875,4,Cluster_1
+Archaea,Thermoplasmata,Marine Group II,0.306038895,6,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.318763326,9,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.303861789,6,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.322545847,9,Cluster_1
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.323243243,7,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.299,7,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.289448209,5,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.265541741,3,Cluster_1
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.2972167,8,Cluster_1
+Bacteria,Gammaproteobacteria,Cellvibrionales,0.312761506,7,Cluster_1
+Bacteria,Actinobacteria,Micrococcales,0.296333003,5,Cluster_1
+Bacteria,Gammaproteobacteria,Oceanospirillales,0.286124402,6,Cluster_1
+Bacteria,Actinobacteria,Micrococcales,0.259548611,3,Cluster_1
+Bacteria,Gammaproteobacteria,Oceanospirillales,0.290573372,4,Cluster_1
+Bacteria,Gammaproteobacteria,Oceanospirillales,0.279178338,4,Cluster_1
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.30141129,7,Cluster_1
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.248545303,2,Cluster_1
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.274816176,5,Cluster_1
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.336332958,10,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.274816176,6,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.311134235,8,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.286124402,6,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.299,6,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.277881041,3,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.271571299,3,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.283143939,3,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.304480652,5,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.266726137,4,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.24813278,3,Cluster_1
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.262972735,4,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.305102041,8,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.308565531,6,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.306352459,6,Cluster_1
+Bacteria,Gammaproteobacteria,SAR86 clade,0.319786096,7,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.275322284,4,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.290573372,6,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.299599198,5,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.308565531,7,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.27839851,5,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.306038895,5,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.304170905,7,Cluster_1
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.299,5,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.299,5,Cluster_1
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.30479103,7,Cluster_1
+Bacteria,Gammaproteobacteria,Cellvibrionales,0.295746785,5,Cluster_1
+Bacteria,Gammaproteobacteria,Cellvibrionales,0.295162883,4,Cluster_1
+Bacteria,Gammaproteobacteria,Cellvibrionales,0.347674419,14,Cluster_1
+Bacteria,Gammaproteobacteria,OM182 clade,0.32012848,8,Cluster_1
+Bacteria,Gammaproteobacteria,Cellvibrionales,0.295454545,7,Cluster_1
+Bacteria,Gammaproteobacteria,Oceanospirillales,0.318085106,7,Cluster_1
+Bacteria,Gammaproteobacteria,Oceanospirillales,0.318423855,8,Cluster_1
+Bacteria,Gammaproteobacteria,Oceanospirillales,0.296626984,5,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.324647123,9,Cluster_1
+Eukaryota,Filosa-Imbricatea,Filosa-Imbricatea_X,0.347270616,12,Cluster_1
+Eukaryota,Filosa-Thecofilosea,Cryomonadida,0.333333333,9,Cluster_1
+Eukaryota,Filosa-Thecofilosea,Cryomonadida,0.318763326,8,Cluster_1
+Eukaryota,Filosa-Thecofilosea,Cryomonadida,0.291707317,6,Cluster_1
+Eukaryota,Filosa-Thecofilosea,Ebriida,0.280487805,5,Cluster_1
+Eukaryota,Filosa-Thecofilosea,Ebriida,0.305102041,6,Cluster_1
+Eukaryota,Filosa-Thecofilosea,Ebriida,0.318085106,8,Cluster_1
+Eukaryota,Filosa-Imbricatea,Filosa-Imbricatea_X,0.296333003,5,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.327491785,7,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.297808765,4,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.33938706,11,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.334078212,12,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.324647123,8,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.314736842,8,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.30984456,9,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.328932893,10,Cluster_1
+Eukaryota,Filosa-Thecofilosea,Ebriida,0.30984456,6,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.339772727,12,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.306038895,6,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.332962138,11,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.322545847,9,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.323593074,8,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.279700655,5,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.32606325,9,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.317073171,8,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.324647123,10,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.313089005,8,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.325708061,11,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.296333003,5,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.299299299,8,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.305413687,10,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.294871795,5,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.338235294,13,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.337471783,10,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.303245436,6,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.303861789,6,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.316402116,9,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.33038674,13,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.323243243,12,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.317073171,8,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.302938197,9,Cluster_1
+Eukaryota,MAST-1,MAST-1C,0.305413687,7,Cluster_1
+Eukaryota,MAST-6,MAST-6_X,0.311458333,7,Cluster_1
+Eukaryota,MAST-6,MAST-6_X,0.325353645,9,Cluster_1
+Eukaryota,MAST-6,MAST-6_X,0.339002268,11,Cluster_1
+Eukaryota,MAST-6,MAST-6_X,0.307929969,8,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.323243243,8,Cluster_1
+Eukaryota,Picozoa_X,Picozoa_XX,0.342497136,12,Cluster_1
+Eukaryota,MAST-12,MAST-12A,0.289168279,6,Cluster_1
+Eukaryota,Acantharea,Arthracanthida-Symphyacanthida,0.30952381,8,Cluster_1
+Eukaryota,Prymnesiophyceae,Prymnesiales,0.326775956,7,Cluster_1
+Eukaryota,Prymnesiophyceae,Prymnesiales,0.323243243,9,Cluster_1
+Eukaryota,Telonemia_X,Telonemia_XX,0.313417191,6,Cluster_1
+Eukaryota,Telonemia_X,Telonemia_XX,0.327133479,9,Cluster_1
+Eukaryota,Katablepharidaceae,Katablepharidales,0.305102041,6,Cluster_1
+Eukaryota,Katablepharidaceae,Katablepharidales,0.325353645,8,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.308884298,9,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.321160043,7,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.316402116,6,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.349299065,12,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.309203723,7,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.332222222,10,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.329658214,9,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.322198276,9,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.334451902,11,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.315733897,10,Cluster_1
+Eukaryota,Cryptophyceae,Cryptomonadales,0.263204225,3,Cluster_1
+Eukaryota,Nephroselmidophyceae,Nephroselmidales,0.318423855,9,Cluster_1
+Eukaryota,Pyramimonadales,Pyramimonadales_X,0.30479103,7,Cluster_1
+Eukaryota,Pyramimonadales,Pyramimonadales_X,0.348484848,12,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.306352459,7,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.331118494,10,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.287776708,4,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.330752212,7,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.303553299,7,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.337853107,12,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.305102041,7,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.307613169,8,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.316737288,7,Cluster_1
+Eukaryota,Mamiellophyceae,Mamiellales,0.302020202,7,Cluster_1
+Eukaryota,Pedinophyceae,Marsupiomonadales,0.296921549,8,Cluster_1
+Eukaryota,Unassigned Fungi (Division),Unassigned Fungi (Division),0.312108559,7,Cluster_1
+Eukaryota,Unassigned Fungi (Division),Unassigned Fungi (Division),0.346064815,11,Cluster_1
+Eukaryota,Fungi_X,Fungi_XX,0.274060495,4,Cluster_1
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.315733897,9,Cluster_1
+Eukaryota,CONThreeP,CONThreeP_X,0.315068493,8,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.338618347,11,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.30698152,7,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.298105683,7,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.329658214,10,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.304480652,5,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.306666667,8,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.295162883,6,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida_B,0.339002268,12,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.300200803,6,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.281544256,4,Cluster_1
+Eukaryota,Spirotrichea,Strombidiida,0.305725971,5,Cluster_1
+Eukaryota,Spirotrichea,Tintinnida,0.327850877,12,Cluster_1
+Eukaryota,Spirotrichea,Tintinnida,0.324295011,7,Cluster_1
+Eukaryota,Spirotrichea,Tintinnida,0.298105683,7,Cluster_1
+Eukaryota,Spirotrichea,Tintinnida,0.329658214,12,Cluster_1
+Eukaryota,Spirotrichea,Tintinnida,0.320815451,8,Cluster_1
+Eukaryota,Spirotrichea,Choreotrichida,0.317073171,7,Cluster_1
+Eukaryota,Spirotrichea,Choreotrichida,0.355529132,12,Cluster_1
+Eukaryota,Spirotrichea,Choreotrichida,0.343283582,12,Cluster_1
+Eukaryota,Spirotrichea,Choreotrichida,0.318423855,11,Cluster_1
+Eukaryota,Spirotrichea,Choreotrichida,0.278657968,5,Cluster_1
+Eukaryota,Spirotrichea,Choreotrichida,0.328932893,12,Cluster_1
+Eukaryota,Spirotrichea,Unassigned Spirotrichea (Class),0.316737288,8,Cluster_1
+Eukaryota,Spirotrichea,Choreotrichida,0.303245436,5,Cluster_1
+Eukaryota,Filosa-Imbricatea,Filosa-Imbricatea_X,0.321505376,8,Cluster_1
+Eukaryota,Colpodellidea,Colpodellida,0.334451902,14,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-I,0.300502513,7,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-II,0.30729702,6,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-II,0.308884298,7,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-II,0.310810811,6,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-II,0.334078212,10,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-II,0.319103522,9,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-I,0.340546697,11,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-I,0.313746065,8,Cluster_1
+Eukaryota,Dinophyceae,Gonyaulacales,0.322894168,8,Cluster_1
+Eukaryota,Syndiniales,Dino-Group-III,0.342497136,13,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.340935006,11,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.30952381,7,Cluster_1
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.331485588,9,Cluster_1
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.314736842,7,Cluster_1
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.290009699,4,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.330022075,11,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.319786096,8,Cluster_1
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.324647123,9,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.329295154,10,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.297512438,7,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.306038895,7,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.297808765,7,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.329658214,8,Cluster_1
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.2972167,8,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.321505376,8,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.337091319,9,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.314736842,8,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.331853496,9,Cluster_1
+Eukaryota,Dinophyceae,Suessiales,0.305102041,7,Cluster_1
+Eukaryota,Dinophyceae,Suessiales,0.313089005,7,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.314405889,8,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.288610039,6,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.310488058,11,Cluster_1
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.30479103,7,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.334451902,9,Cluster_1
+Eukaryota,Dinophyceae,Gymnodiniales,0.323593074,10,Cluster_1
+Eukaryota,Dinophyceae,Peridiniales,0.328932893,10,Cluster_1
+Bacteria,Alphaproteobacteria,SAR11 clade,0.256055363,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.249578415,7,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.211126961,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.234734338,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.222389181,4,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.187817259,2,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.205412908,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.219421794,5,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.196156395,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.185231539,2,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.222891566,5,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.200270636,4,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.171693735,1,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.207137859,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.198791135,2,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.208011244,4,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.204844291,5,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.22122571,2,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.224753227,5,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.214960058,5,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.185696361,1,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.22786759,4,Cluster_2
+Archaea,Nitrososphaeria,Nitrosopumilales,0.251486831,7,Cluster_2
+Bacteria,Oxyphotobacteria,Synechococcales,0.202323992,3,Cluster_2
+Archaea,Nitrososphaeria,Nitrosopumilales,0.193844139,2,Cluster_2
+Archaea,Nitrososphaeria,Nitrosopumilales,0.18710493,2,Cluster_2
+Archaea,Nitrososphaeria,Nitrosopumilales,0.199192463,3,Cluster_2
+Bacteria,Bacteroidia,Chitinophagales,0.210676157,3,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.226126814,2,Cluster_2
+Bacteria,Oxyphotobacteria,Synechococcales,0.162458836,2,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.193337688,4,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.237751004,4,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.211126961,2,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.193337688,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.200814111,3,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.219096965,7,Cluster_2
+Archaea,Thermoplasmata,Marine Group II,0.212034384,2,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.273567468,6,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.243021346,3,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.209335219,2,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.240846216,3,Cluster_2
+Bacteria,Oxyphotobacteria,Synechococcales,0.241042345,5,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.201360544,2,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.19460881,2,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.227692308,4,Cluster_2
+Bacteria,Oxyphotobacteria,Synechococcales,0.231611894,4,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.208744711,4,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.248113998,5,Cluster_2
+Bacteria,Pla3 lineage,unidentified marine bacterioplankton,0.225954198,3,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.227168074,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.214804064,3,Cluster_2
+Bacteria,Planctomycetacia,Planctomycetales,0.23566879,3,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.186397985,2,Cluster_2
+Bacteria,Deltaproteobacteria,SAR324 clade(Marine group B),0.19525066,3,Cluster_2
+Bacteria,Deltaproteobacteria,SAR324 clade(Marine group B),0.216058394,3,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.197464977,2,Cluster_2
+Bacteria,Deltaproteobacteria,SAR324 clade(Marine group B),0.217647059,3,Cluster_2
+Bacteria,Deltaproteobacteria,SAR324 clade(Marine group B),0.226299694,3,Cluster_2
+Bacteria,Acidimicrobiia,Microtrichales,0.179829891,1,Cluster_2
+Bacteria,Acidimicrobiia,Microtrichales,0.23566879,2,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.218611521,4,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.241238794,5,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.198391421,2,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.233070866,8,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.18913738,1,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.259194396,6,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.207719298,2,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.243221035,6,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.22999223,3,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.195767196,1,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.20598469,1,Cluster_2
+Bacteria,Bacteroidia,Chitinophagales,0.213872832,4,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.206703911,2,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.190231362,2,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.217487142,2,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.220566319,2,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.249158249,5,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.205841446,3,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.177991581,2,Cluster_2
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.232521603,2,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodospirillales,0.179502729,1,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodospirillales,0.210227273,3,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodospirillales,0.237560193,3,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.172796264,1,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.206415621,3,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.213564214,3,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.197070573,2,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.18913738,3,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.221889055,6,Cluster_2
+Archaea,Nitrososphaeria,Nitrosopumilales,0.241042345,4,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.139952719,2,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodobacterales,0.122821577,1,Cluster_2
+Bacteria,Alphaproteobacteria,Parvibaculales,0.212796549,2,Cluster_2
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.221556886,3,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.209483369,2,Cluster_2
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.234362629,4,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.182490752,2,Cluster_2
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.186046512,2,Cluster_2
+Bacteria,Alphaproteobacteria,Puniceispirillales,0.23566879,5,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.214182344,2,Cluster_2
+Bacteria,Gammaproteobacteria,Oceanospirillales,0.170114943,1,Cluster_2
+Bacteria,Gammaproteobacteria,Oceanospirillales,0.199058507,3,Cluster_2
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.21574344,4,Cluster_2
+Bacteria,Alphaproteobacteria,Rhodospirillales,0.250847458,3,Cluster_2
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.237560193,6,Cluster_2
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.225781846,6,Cluster_2
+Bacteria,Acidimicrobiia,Microtrichales,0.210826211,2,Cluster_2
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.231793265,3,Cluster_2
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.223227753,6,Cluster_2
+Bacteria,Bacteroidia,Flavobacteriales,0.20598469,3,Cluster_2
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.170999422,2,Cluster_2
+Bacteria,Gammaproteobacteria,Thiomicrospirales,0.206271777,2,Cluster_2
+Bacteria,Gammaproteobacteria,Thiotrichales,0.247284879,4,Cluster_2
+Bacteria,Verrucomicrobiae,Opitutales,0.237560193,4,Cluster_2
+Bacteria,Gammaproteobacteria,UBA10353 marine group,0.249368155,5,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.212491027,2,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.17535545,1,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.165086447,1,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.197596796,3,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.18913738,1,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.170999422,2,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.196808511,2,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.217807211,4,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.219259259,2,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.205412908,2,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.19121447,2,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.222723853,3,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.220895522,2,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.240064882,5,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.206271777,2,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.219259259,3,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.235294118,4,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.24025974,3,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.200542005,2,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.199460916,2,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.235107228,4,Cluster_2
+Bacteria,Gammaproteobacteria,Cellvibrionales,0.227517294,4,Cluster_2
+Bacteria,Gammaproteobacteria,Cellvibrionales,0.221889055,3,Cluster_2
+Bacteria,Acidimicrobiia,Actinomarinales,0.238325282,2,Cluster_2
+Eukaryota,Filosa-Thecofilosea,Cryomonadida,0.274328082,6,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.271310724,8,Cluster_2
+Bacteria,Actinobacteria,Micrococcales,0.221889055,2,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.263345196,5,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.274837512,9,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.243822076,3,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.271062271,10,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.20498615,2,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.25320787,6,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.286266925,10,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.281368821,9,Cluster_2
+Eukaryota,Filosa-Imbricatea,Filosa-Imbricatea_X,0.268846503,6,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.273567468,8,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.288499025,12,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.280037843,9,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.275348837,6,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.287099903,9,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.247284879,4,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.271310724,8,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.263579697,7,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.264758497,6,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.2890625,10,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.265470852,6,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.263345196,5,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.265947889,8,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.251273345,4,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.26056338,5,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.268846503,7,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.300507614,14,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.287378641,8,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.252991453,5,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.253424658,5,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.253641817,5,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.253424658,5,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.24978903,4,Cluster_2
+Bacteria,Oxyphotobacteria,Synechococcales,0.212338594,1,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.26933576,8,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.267148014,5,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.270814273,9,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.271808999,8,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.277673546,7,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.274074074,7,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.268602541,7,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.261946903,7,Cluster_2
+Eukaryota,MAST-6,MAST-6_X,0.2698268,9,Cluster_2
+Eukaryota,MAST-6,MAST-6_X,0.275092937,7,Cluster_2
+Eukaryota,Bicoecea,Bicoecales,0.292201382,11,Cluster_2
+Eukaryota,Picozoa_X,Picozoa_XX,0.285990338,9,Cluster_2
+Eukaryota,Picozoa_X,Picozoa_XX,0.268602541,9,Cluster_2
+Eukaryota,Bacillariophyta,Bacillariophyta_X,0.276635514,10,Cluster_2
+Eukaryota,Acantharea,Acantharea_X,0.230529595,4,Cluster_2
+Eukaryota,Katablepharidaceae,Katablepharidales,0.282712512,8,Cluster_2
+Eukaryota,Katablepharidaceae,Katablepharidales,0.276894294,8,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.25539258,5,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.255172414,7,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.249158249,4,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.265947889,6,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.255834054,3,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.28030303,10,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.226299694,3,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.225954198,3,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.231793265,4,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.211277659,2,Cluster_2
+Eukaryota,Unassigned Fungi (Division),Unassigned Fungi (Division),0.243221035,5,Cluster_2
+Eukaryota,Pyramimonadales,Pyramimonadales_X,0.224242424,4,Cluster_2
+Eukaryota,Cryptophyceae,Cryptomonadales,0.235481305,3,Cluster_2
+Eukaryota,Mamiellophyceae,Mamiellales,0.265947889,6,Cluster_2
+Eukaryota,Mamiellophyceae,Mamiellales,0.297487437,12,Cluster_2
+Eukaryota,Mamiellophyceae,Mamiellales,0.248113998,4,Cluster_2
+Eukaryota,Mamiellophyceae,Mamiellales,0.276635514,6,Cluster_2
+Eukaryota,Pedinophyceae,Marsupiomonadales,0.270566728,6,Cluster_2
+Eukaryota,Trebouxiophyceae,Chlorellales,0.24978903,4,Cluster_2
+Eukaryota,Unassigned Fungi (Division),Unassigned Fungi (Division),0.267631103,7,Cluster_2
+Eukaryota,Unassigned Fungi (Division),Unassigned Fungi (Division),0.277153558,9,Cluster_2
+Eukaryota,CONThreeP,CONThreeP_X,0.263345196,4,Cluster_2
+Eukaryota,CONThreeP,CONThreeP_X,0.258289703,6,Cluster_2
+Eukaryota,Phyllopharyngea,Cyrtophoria_1,0.258515284,5,Cluster_2
+Eukaryota,Spirotrichea,Strombidiida,0.229279628,2,Cluster_2
+Eukaryota,Spirotrichea,Strombidiida,0.256499133,5,Cluster_2
+Eukaryota,Spirotrichea,Strombidiida,0.236610711,3,Cluster_2
+Eukaryota,Spirotrichea,Strombidiida,0.231974922,5,Cluster_2
+Eukaryota,Spirotrichea,Strombidiida,0.271559633,7,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.243221035,3,Cluster_2
+Eukaryota,Spirotrichea,Strombidiida,0.246666667,6,Cluster_2
+Eukaryota,Spirotrichea,Tintinnida,0.234920635,2,Cluster_2
+Eukaryota,Spirotrichea,Tintinnida,0.188415022,1,Cluster_2
+Eukaryota,Spirotrichea,Tintinnida,0.27281106,6,Cluster_2
+Eukaryota,Spirotrichea,Tintinnida,0.268359021,7,Cluster_2
+Eukaryota,Spirotrichea,Tintinnida,0.288780488,10,Cluster_2
+Eukaryota,Spirotrichea,Tintinnida,0.2368,3,Cluster_2
+Eukaryota,Spirotrichea,Tintinnida,0.264521895,6,Cluster_2
+Eukaryota,Spirotrichea,Choreotrichida,0.260792952,4,Cluster_2
+Eukaryota,Spirotrichea,Choreotrichida,0.266426643,5,Cluster_2
+Eukaryota,Spirotrichea,Choreotrichida,0.284341979,9,Cluster_2
+Eukaryota,Spirotrichea,Tintinnida,0.203157172,2,Cluster_2
+Eukaryota,Spirotrichea,Unassigned Spirotrichea (Class),0.176085663,2,Cluster_2
+Eukaryota,Spirotrichea,Choreotrichida,0.253641817,5,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-I,0.262877442,6,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.248739496,5,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.272309108,7,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.252991453,5,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.277673546,9,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.274328082,9,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.252344416,5,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.250211327,6,Cluster_2
+Bacteria,Gammaproteobacteria,Betaproteobacteriales,0.200270636,1,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.267873303,7,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.296296296,9,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.266666667,6,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.25320787,5,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.25320787,4,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-II,0.284889317,10,Cluster_2
+Eukaryota,Dinophyceae,Gymnodiniales,0.271559633,7,Cluster_2
+Bacteria,Gammaproteobacteria,SAR86 clade,0.215586307,1,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-I,0.27458256,8,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-I,0.273314866,7,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-I,0.267389341,7,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-I,0.252344416,7,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-I,0.301732926,11,Cluster_2
+Eukaryota,Dinophyceae,Dinophyceae_X,0.270814273,9,Cluster_2
+Eukaryota,Dinophyceae,Dinophyceae_X,0.234548336,4,Cluster_2
+Eukaryota,Dinophyceae,Dinophyceae_X,0.258515284,8,Cluster_2
+Eukaryota,Dinophyceae,Gonyaulacales,0.254514187,5,Cluster_2
+Eukaryota,Dinophyceae,Gonyaulacales,0.267148014,7,Cluster_2
+Eukaryota,Dinophyceae,Gonyaulacales,0.269090909,7,Cluster_2
+Eukaryota,Eukaryota_XXX,Eukaryota_XXXX,0.225954198,2,Cluster_2
+Bacteria,Alphaproteobacteria,SAR11 clade,0.195767196,1,Cluster_2
+Eukaryota,Eukaryota_XXX,Eukaryota_XXXX,0.243221035,6,Cluster_2
+Eukaryota,Dinophyceae,Gonyaulacales,0.277673546,9,Cluster_2
+Eukaryota,Dinophyceae,Gonyaulacales,0.277934272,8,Cluster_2
+Eukaryota,Syndiniales,Dino-Group-III,0.281368821,8,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.284341979,10,Cluster_2
+Eukaryota,Dinophyceae,Gymnodiniales,0.264758497,5,Cluster_2
+Eukaryota,Dinophyceae,Gymnodiniales,0.266426643,6,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.287937743,10,Cluster_2
+Archaea,Nitrososphaeria,Nitrosopumilales,0.234362629,2,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.295409182,10,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.272559853,5,Cluster_2
+Eukaryota,Dinophyceae,Gymnodiniales,0.288780488,9,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.269090909,6,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.285990338,8,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.244830438,5,Cluster_2
+Eukaryota,Dinophyceae,Gymnodiniales,0.262178919,7,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.215116279,3,Cluster_2
+Eukaryota,Dinophyceae,Peridiniales,0.260334213,5,Cluster_2
+Eukaryota,Dinophyceae,Peridiniales,0.239676113,4,Cluster_2
+Eukaryota,Dinophyceae,Peridiniales,0.267631103,6,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.292779426,9,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.278982092,9,Cluster_2
+Eukaryota,Dinophyceae,Peridiniales,0.248739496,5,Cluster_2
+Eukaryota,Dinophyceae,Peridiniales,0.281101614,9,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.281368821,8,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.277413308,9,Cluster_2
+Eukaryota,Dinophyceae,Peridiniales,0.268359021,6,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.237560193,4,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.273062731,6,Cluster_2
+Eukaryota,Dinophyceae,Unassigned Dinophyceae (Class),0.265470852,7,Cluster_2
+Eukaryota,Dinophyceae,Gymnodiniales,0.277934272,6,Cluster_2
