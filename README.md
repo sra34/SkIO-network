@@ -11,7 +11,7 @@ The manuscript is currently under review.
 
 #### Summary
 
-Microbial relationships remain enigmatic in the ocean, despite their importance for food web dynamics and biogeochemistry. Understanding how microbial associations vary over space and time, and with respect to changing environmental conditions, offers important insight into how associations may change in future ecosystems. We explored microbial relationships (prokaryotes and single-celled eukaryotes) and networks between two contrasting periods in the Skidaway River Estuary (GA, USA), performing co-occurrence network analysis with 16S and 18S metabarcoding data. Raw sequence data are available in NCBI SRA under BioProject ID's PRJNA575563 (18S) and PRJNA680039 (16S). 
+Microbial relationships remain enigmatic in the ocean, despite their importance for food web dynamics and biogeochemistry. Understanding how microbial associations vary over space and time, and with respect to changing environmental conditions, offers important insight into how associations may change in future ecosystems. We explored microbial relationships (prokaryotes and protists) and networks between two contrasting periods in the Skidaway River Estuary (GA, USA), performing co-occurrence network analysis with 16S and 18S metabarcoding data. Raw sequence data are available in NCBI SRA under BioProject ID's PRJNA575563 (18S) and PRJNA680039 (16S). 
 
 #### Bioinformatics and data analysis
 
