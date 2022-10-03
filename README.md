@@ -5,7 +5,7 @@ This repository has QIIME 2 compatible files (.qza), metadata tables, network fi
 **Estuarine microbial networks and relationships vary between environmentally distinct communities**<br/>
 *Sean R. Anderson and Elizabeth L. Harvey,  (2022)*<br/>
 
-The manuscript is currently under review.
+The manuscript is published in PeerJ: [(Anderson and Harvey 2022)](https://peerj.com/articles/14005/)
 
 ### Project workflow
 
